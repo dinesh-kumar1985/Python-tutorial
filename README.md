@@ -1,2 +1,2 @@
-# python_learning
-Core python concept basic to advance
+# Python learning basic to advance.
+Core Python concept basic to advance
