@@ -1,1 +1,2 @@
-touch .github/workflows/run-tests.yml
+name: Run tests
+on: push
